@@ -1,0 +1,6 @@
+{
+  "name": "Aura Wave",
+  "description": "An immersive, interactive landing page built with React, Tailwind CSS, and three.js featuring dynamic floating line wave shaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
